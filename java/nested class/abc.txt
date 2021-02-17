@@ -1,0 +1,6 @@
+Compiled from "Outer.java"
+class Outer$Inner {
+  final Outer this$0;
+  Outer$Inner(Outer);
+  void show();
+}

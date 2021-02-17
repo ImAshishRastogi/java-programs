@@ -1,0 +1,61 @@
+static int wordCount(String s)
+static int spaceCount(String s)
+static int charCount(String s)
+static String reverse(String s)
+static boolean palindrome(String s)
+static String ltrim(String s)
+static String rtrim(String s)
+static String alltrim(String s)
+static String squeeze(String s)
+static int vowelCount(String s)
+static int length(String s)
+static void sequenceCount(String s)
+static void frequencyCount(String s)
+static String changeCase(String s)
+static String singleOccurance(String s)
+static void sortedOrder(String s)
+static String cortedWord(String s)
+static boolean find(String s,String s1)
+static String replace(String s1,String s2,String s3)
+static boolean equals(String s)
+static void triangle1(String s)
+{
+d
+du
+duc
+duca
+ducat
+}
+static void triangle2(String s)
+{
+ducat
+duca
+duc
+du
+d
+}
+static void triangle3(String s)
+{
+ducat
+ ucat
+  cat
+   at
+    t
+}
+static void triangle4(String s)
+{
+ducatducat
+duca  ucat
+duc    cat
+du      at
+d        t
+}
+static int comapare(String s1,String s2)
+public static void wordFrequencyCount(String s)
+public int exprecient("10+20+20*20")
+public int BinaryToDecimal("1010101")
+
+
+
+
+
